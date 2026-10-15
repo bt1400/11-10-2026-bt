@@ -1,7 +1,7 @@
 name: dosya_programi
 description: Is takip uygulamasi (musteri, makina, mazot, gider).
 publish_to: 'none'
-version: 1.5.0+6
+version: 2.1.0+10
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
